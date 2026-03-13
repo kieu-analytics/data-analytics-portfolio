@@ -1,5 +1,7 @@
 # Data Analytics Portfolio
 
+Power BI dashboards showcasing marketing and business performance analysis.
+
 This repository contains my Business Intelligence and Data Analytics projects built using Power BI.
 
 ---
