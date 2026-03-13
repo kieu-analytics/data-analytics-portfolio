@@ -14,8 +14,7 @@ This repository contains my Business Intelligence and Data Analytics projects bu
 ### Project Overview
 This Power BI dashboard analyzes marketing performance across multiple channels including Google, Email, and Facebook.
 
-The dashboard tracks key performance indicators such as:
-
+### Key Metrics
 - Total Revenue
 - Total Cost
 - Conversion Rate
@@ -27,5 +26,7 @@ The dashboard tracks key performance indicators such as:
 - Google contributed the highest revenue but had a lower ROAS compared to Email.
 
 ### Files
-- `marketing_performance_dashboard.pbix` – Power BI project file  
-- `marketing_performance_dashboard.pdf` – Exported dashboard preview
+
+- dashboard_preview.png — Dashboard screenshot preview
+- marketing_performance_dashboard.pbix — Power BI project file
+- marketing_performance_dashboard.pdf — Exported dashboard preview
