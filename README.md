@@ -5,7 +5,7 @@ This repository contains my Business Intelligence and Data Analytics projects bu
 ---
 
 ## Project 1: Marketing Performance Dashboard
-
+![Dashboard Preview](dashboard_preview.png)
 ### Tools Used
 - Power BI
 - Data Visualization
